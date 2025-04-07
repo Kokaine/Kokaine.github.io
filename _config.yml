@@ -23,13 +23,13 @@ repository               : "Kokaine/Kokaine.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yichen Xu"
+  name             : "Yichen Xu 徐奕辰"
   pronouns         : "he/his"  
-  bio              : "PKU Undergrad"
+  bio              : "Undergrad @ PKU \n Aviation \n Photography \n Music "
   location         : "Beijing, China"
   employer         : "Peking University"
   uri              : # URL
-  email            : "michaelxu_cn@outlook.com " 
+  email            : "pku@yichenxu.com" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
@@ -57,7 +57,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "dcskkk"
   lastfm           : # Username
   linkedin         : "yichenxu99/"
   mastodon         : # URL
